@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Adding an image via Markdown\"\noutput: pdf_document\n---\n## R Markdown\n\nA happy cat:\n\n![alt tag](../img/cnudu.jpg)\n",
+    "created" : 1476911546710.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2978070418",
+    "id" : "2F430C88",
+    "lastKnownWriteTime" : 1476911868,
+    "last_content_update" : 1476911868226,
+    "path" : "~/Desktop/test3/src/img_via_md.Rmd",
+    "project_path" : "src/img_via_md.Rmd",
+    "properties" : {
+        "chunk_rendered_width" : "635",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
